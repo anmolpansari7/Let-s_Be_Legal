@@ -56,7 +56,7 @@ const AdvocateEngagement = () => {
       <img
         src={serviceBottomBg}
         alt="service page"
-        className="invisible lg:visible"
+        className="invisible lg:hidden"
       />
       <img
         src={serviceBottomBgMobile}

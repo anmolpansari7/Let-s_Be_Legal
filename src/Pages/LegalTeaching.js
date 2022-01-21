@@ -67,7 +67,7 @@ const LegalTeaching = () => {
       <img
         src={serviceBottomBgMobile}
         alt="service page"
-        className="visible lg:invisible"
+        className="visible lg:hidden"
       />
     </div>
   );

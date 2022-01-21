@@ -38,12 +38,12 @@ const NoPage = () => {
       <img
         src={serviceBottomBg}
         alt="service page"
-        className="invisible lg:visible"
+        className="invisible absolute bottom-0 left-0 lg:visible"
       />
       <img
         src={serviceBottomBgMobile}
         alt="service page"
-        className="visible lg:invisible"
+        className="visible absolute bottom-0 left-0 lg:hidden"
       />
     </div>
   );
