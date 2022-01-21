@@ -53,15 +53,20 @@ const AdvocateEngagement = () => {
           />
         </div>
       </div>
+      <div className=" w-full text-center text-sky-theme font-medium text-xs lg:text-lg">
+        <p className="mb-2">Contact Us-</p>
+        <p>+91 9617257912 (Whatsapp only)</p>
+        <p>+91 8839701992 (Whatsapp only)</p>
+      </div>
       <img
         src={serviceBottomBg}
         alt="service page"
-        className="invisible lg:hidden"
+        className="invisible lg:visible"
       />
       <img
         src={serviceBottomBgMobile}
         alt="service page"
-        className="visible lg:invisible"
+        className="visible lg:hidden"
       />
     </div>
   );
