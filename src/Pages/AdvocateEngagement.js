@@ -56,12 +56,12 @@ const AdvocateEngagement = () => {
       <img
         src={serviceBottomBg}
         alt="service page"
-        className="invisible absolute bottom-0 left-0 lg:visible"
+        className="invisible lg:visible"
       />
       <img
         src={serviceBottomBgMobile}
         alt="service page"
-        className="visible absolute bottom-0 left-0 lg:invisible"
+        className="visible lg:invisible"
       />
     </div>
   );
