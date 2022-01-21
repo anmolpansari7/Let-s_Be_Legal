@@ -22,8 +22,6 @@ const HomeFooter = () => {
         <div className="text-center pb-4 my-4 border-b-[1px] border-dashed lg:text-left lg:border-none lg:pb-0">
           <p className="mb-2">Email Us-</p>
           <p>letsbelegal5@gmail.com</p>
-          <p>yashshrivastava022@gmail.com</p>
-          <p>ashish.thawait10@gmail.com</p>
         </div>
       </div>
       <p className=" w-full text-center text-lg mt-12">
