@@ -42,7 +42,7 @@ const PetitionFiling = () => {
             <li>Clerk work,</li>
             <li>Legal assistance available (pre booking system),</li>
             <li>Drafting work available(pre booking system),</li>
-            <li>Legal intership are also available.</li>
+            <li>Legal internship are also available.</li>
           </ul>
         </div>
         <div>

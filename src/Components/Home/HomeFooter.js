@@ -12,6 +12,15 @@ const HomeFooter = () => {
             <li>Pragati Goyal</li>
             <li>Savi Sahu</li>
             <li>Suraj Patel</li>
+            <li>Ravishankar Vaishnav</li>
+          </ol>
+        </div>
+        <div className="mt-3 text-center pb-4 border-b-[1px] border-dashed lg:text-left lg:border-none lg:pb-0 lg:my-0">
+          <p className="mb-2">Honourable Advocates -</p>
+          <ol>
+            <li>Advocate Vaibhav Shukla</li>
+            <li>Advocate Himanshu Pandey</li>
+            <li>Advocate Jyoti Singh</li>
           </ol>
         </div>
         <div className="text-center py-4 border-b-[1px] border-dashed lg:text-left lg:border-none lg:py-0 lg:my-0">

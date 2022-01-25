@@ -41,7 +41,7 @@ const AdvocateEngagement = () => {
             <li>At civil court,</li>
             <li>At session court,</li>
             <li>At high court,</li>
-            <li>At supreme coury,</li>
+            <li>At supreme court,</li>
             <li>At subordinate revenue court.</li>
           </ul>
         </div>
