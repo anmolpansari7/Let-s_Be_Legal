@@ -16,11 +16,11 @@ const HomeFooter = () => {
           </ol>
         </div>
         <div className="mt-3 text-center pb-4 border-b-[1px] border-dashed lg:text-left lg:border-none lg:pb-0 lg:my-0">
-          <p className="mb-2">Honourable Advocates -</p>
+          <p className="mb-2">Advocates -</p>
           <ol>
-            <li>Advocate Vaibhav Shukla</li>
-            <li>Advocate Himanshu Pandey</li>
-            <li>Advocate Jyoti Singh</li>
+            <li>Vaibhav Shukla</li>
+            <li>Himanshu Pandey</li>
+            <li>Jyoti Singh</li>
           </ol>
         </div>
         <div className="text-center py-4 border-b-[1px] border-dashed lg:text-left lg:border-none lg:py-0 lg:my-0">
@@ -30,7 +30,7 @@ const HomeFooter = () => {
         </div>
         <div className="text-center pb-4 my-4 border-b-[1px] border-dashed lg:text-left lg:border-none lg:pb-0">
           <p className="mb-2">Email Us-</p>
-          <p>letsbelegal5@gmail.com</p>
+          <p>legalengulf5@gmail.com</p>
         </div>
       </div>
       <p className=" w-full text-center text-lg mt-12">
