@@ -37,7 +37,7 @@ const HomeFooter = () => {
         We are happy to help you!
       </p>
       <p className="text-xs w-full text-center">
-        *** we do not provide and recomment any illegal advice to our client.
+        *** we do not provide and recommend any illegal advice to our client.
       </p>
     </div>
   );
